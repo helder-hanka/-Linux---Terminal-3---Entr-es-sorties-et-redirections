@@ -1,0 +1,156 @@
+liste_eleves history
+    1  clear
+    2  $ brew install wget
+    3  brew install wget
+    4  tree
+    5  sh -c " $ ( curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh ) "
+    6  brew
+    7  brew curl
+    8  brew doctor
+    9  brew curl
+   10  brew install curl
+   11  brew install zsh
+   12  sh -c " $ ( curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh ) "
+   13  sh -c "$ (curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   14  curl
+   15  clear
+   16  clear
+   17  sh -c "$ (curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   18  sh -c "$ (curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   19  curl
+   20  sh -c "$ (curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   21  wget
+   22  sh -c "$ (wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+   23  bash
+   24  chmod 751 /usr/local/share/zsh /usr/local/share/zsh/site-functions
+   25  source .zshrc
+   26  ls
+   27  cd liste_eleves
+   28  ls
+   29  tree
+   30  clear
+   31  ls
+   32  cat wilders.csv
+   33  clear
+   34  grep 'PHP' wilders.csv | grep '2019' | grep 'France' | wc > php_france_2019.csv
+   35  ls
+   36  wvc
+   37  wc
+   38  wc php_france_2019.csv
+   39  cat
+   40  cat php_france_2019.csv
+   41  cd ..
+   42  ls
+   43  cd liste_eleves
+   44  ls
+   45  clear
+   46  ls
+   47  grep "javaScriptv" wilders.csv | grep "Toulouse" | grep "Biarritz" > javascript_biarritz_toulouse.csv
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd liste_eleves
+   52  ls
+   53  cd javasc
+   54  wc
+   55  ls
+   56  cd liste_eleves
+   57  ls
+   58  cat
+   59  clear
+   60  ls
+   61  grep "JavaScript" wilders.csv | gred "Toulouse" | gred "Biarritz > javascript_biarritz_toulouse.csv
+   62  ls
+   63  grep "JavaScript" wilders.csv | gred "Toulouse" | gred "Biarritz" > javascript_biarritz_toulouse.csv
+   64  ls
+   65  grep "JavaScript" wilders.csv | grep "Toulouse" | grepd "Biarritz" > javascript_biarritz_toulouse.csv
+   66  ls
+   67  grep "JavaScript" wilders.csv | grep "Toulouse" | grep "Biarritz" > javascript_biarritz_toulouse.csv
+   68  ls
+   69  grep "JavaScript" wilders.csv | grep "Toulouse" | grep "Biarritz" > javascript_biarritz_toulouse.csv
+   70  grep "JavaScript" wilders.csv | grep "Toulouse" | grep "Biarritz" |  > javascript_biarritz_toulouse.csv
+   71  cat javascript_biarritz_toulouse.csv
+   72  cat
+   73  ls
+   74  cd liste_eleves
+   75  ls
+   76  cat javascript_biarritz_toulouse.csv
+   77  ls
+   78  tail
+   79  ls
+   80  tail
+   81  tail javascript_biarritz_toulouse.csv
+   82  tail php_france_2019.csv
+   83  grep "JavaScript" wilders.csv | grep "Toulouse" > javascript_biarritz_toulouse.csv
+   84  grep "JavaScript" wilders.csv | grep "Biarritz" > javascript_biarritz_toulouse.csv
+   85  grep "JavaScript" wilders.csv | grep "Biarritz" >> javascript_biarritz_toulouse.csv
+   86  grep "JavaScript" wilders.csv | grep "Biarritz" > javascript_biarritz_toulouse.csv
+   87  grep "JavaScript" wilders.csv | grep "Toulousez" > javascript_biarritz_toulouse.csv
+   88  grep "JavaScript" wilders.csv | grep "Toulouse" > javascript_biarritz_toulouse.csv
+   89  grep "JavaScript" wilders.csv | grep "Biarritz" >> javascript_biarritz_toulouse.csv
+   90  historique tail
+   91  history
+   92  history tail
+   93  history
+   94  tail
+   95  history tail php_france_2019.csv
+   96  history | tail php_france_2019.csv
+   97  histary | tail
+   98  history | tail
+   99  tail javascript_biarritz_toulouse.csv
+  100  history | tail
+  101  ls
+➜  liste_eleves tail php_france_2019.csv
+      97     111    3819
+      
+      javascript_biarritz_toulouse.csv
+      
+      Agathe,Bazin,Toulouse,France,2017,JavaScript
+Maurice,Munoz,Toulouse,France,2017,JavaScript
+Michèle,Traore,Toulouse,France,2017,JavaScript
+Aurélie,Becker,Toulouse,France,2018,JavaScript
+Timothée,Henry,Toulouse,France,2018,JavaScript
+Théodore,Gerard,Toulouse,France,2018,JavaScript
+Maryse,Allain,Toulouse,France,2018,JavaScript
+Philippe,Paris,Toulouse,France,2018,JavaScript
+Henri,Guilbert,Toulouse,France,2018,JavaScript
+Olivier,Dufour,Toulouse,France,2018,JavaScript
+Alexandre,"Da Silva",Toulouse,France,2019,JavaScript
+Mathilde,Descamps,Toulouse,France,2019,JavaScript
+Céline,Fabre,Toulouse,France,2019,JavaScript
+Raymond,Bouvet,Toulouse,France,2019,JavaScript
+Danielle,Lecomte,Toulouse,France,2019,JavaScript
+Noël,Noel,Toulouse,France,2019,JavaScript
+Danielle,Perrin,Toulouse,France,2019,JavaScript
+Éric,Meunier,Toulouse,France,2019,JavaScript
+Claude,Samson,Toulouse,France,2019,JavaScript
+Emmanuelle,Mercier,Biarritz,France,2017,JavaScript
+Thierry,Alexandre,Biarritz,France,2017,JavaScript
+Édith,Turpin,Biarritz,France,2017,JavaScript
+Chantal,Caron,Biarritz,France,2017,JavaScript
+Pénélope,Paris,Biarritz,France,2017,JavaScript
+Christelle,Vallet,Biarritz,France,2017,JavaScript
+Daniel,Roy,Biarritz,France,2017,JavaScript
+Théodore,Regnier,Biarritz,France,2018,JavaScript
+Benjamin,Tanguy,Biarritz,France,2018,JavaScript
+Arthur,Bruneau,Biarritz,France,2018,JavaScript
+Sébastien,Ferreira,Biarritz,France,2018,JavaScript
+Charlotte,Roche,Biarritz,France,2018,JavaScript
+Colette,Bouvier,Biarritz,France,2018,JavaScript
+Alfred,"Da Silva",Biarritz,France,2018,JavaScript
+Vincent,Sanchez,Biarritz,France,2019,JavaScript
+Yves,Marie,Biarritz,France,2019,JavaScript
+Alphonse,Leleu,Biarritz,France,2019,JavaScript
+Laurence,Lemaire,Biarritz,France,2019,JavaScript
+Marcel,Olivier,Biarritz,France,2019,JavaScript
+Victor,Lopez,Biarritz,France,2019,JavaScript
+Michel,David,Biarritz,France,2019,JavaScript
+Théodore,Bousquet,Biarritz,France,2019,JavaScript
+Andrée,Berthelot,Biarritz,France,2019,JavaScript
+Léon,Jacquet,Biarritz,France,2019,JavaScript
+Laetitia,Schneider,Biarritz,France,2019,JavaScript
+Thérèse,Guyot,Biarritz,France,2019,JavaScript
+
+php_france_2019.csv
+
+            97     111    3819
